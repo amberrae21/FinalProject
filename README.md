@@ -16,7 +16,7 @@
   ## How the code would be used in the outside world
   The code i have written only does one thing but i could make some changes by adding shapefiles or changing species to create a different map. My code could also be a potential guideline to create a map in a different state or country. An example would be if i wanted to the endangered types of mussels or mollusks that are flowing through the stream and lakes of Georgia all i would have to do is change the endangered species and download new data and i could basically copy and paste the new information into the code to retrieve a new result. 
   
-## citations:
+## Citations:
 1) “ECOSEnvironmental Conservation Online System.” Listed+Animals, ecos.fws.gov/ecp/report/table/critical-habitat.html.  
 2) “SAVING THE SOUTHERN CALIFORNIA STEELHEAD TROUT.” Ocean Plastics Pollution, www.biologicaldiversity.org/species/fish/southern_California_steelhead_trout/.
 3) “Chinook Salmon.” The National Wildlife Federation, www.nwf.org/Educational-Resources/Wildlife-Guide/Fish/Chinook-Salmon.
