@@ -10,9 +10,9 @@
   ## Why I chose to write code for this project
   I created this project becuase both the Chinook Salmon and the Steelhead Trout are both endangered or threatened in California. Most the waterways and streams lead to the Pacific Ocean. Chinook salmon are the largest Pacific salmon species and, on average, grow to be three feet long and approximately 30 pounds. However, some Chinook salmon can reach more than five feet long and 110 pounds. They live in the colder upper reaches of the Pacific Ocean. Steelhead are a unique form of rainbow trout. Like salmon, they spent most of their adult lives in the ocean, but spawn in freshwater streams and rivers. Southern steelhead are survivors, adapted to seasonally dry streams in the arid climate at the extreme southern end of the steelhead range. Tens of thousands of these prized sport fish used to return to Southern California streams every year, but now they're stopped by dams and water diversions, urban development, and livestock grazing. Both fish species have been listed as endangered species in 1997.
   
-  ## Type of Code Used
+  ## Type of Code Used and Workflow
   The only code library that was used to created this project was arcpy. I created the entire project in ArcMap and used the IDLE window to organize the code and to make sure every code ran smoothly.
-  
+
   ## How the code would be used in the outside world
   The code i have written only does one thing but i could make some changes by adding shapefiles or changing species to create a different map. My code could also be a potential guideline to create a map in a different state or country. An example would be if i wanted to the endangered types of mussels or mollusks that are flowing through the stream and lakes of Georgia all i would have to do is change the endangered species and download new data and i could basically copy and paste the new information into the code to retrieve a new result. 
   
